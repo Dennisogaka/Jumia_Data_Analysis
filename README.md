@@ -4,7 +4,7 @@ I developed a comprehensive project in MS Excel through dashboards and tables to
 ## Project Objective
 The objective of this project is to design and build an interactive Excel dashboard that analyzes the performance of products listed on Jumia.
 ## Dataset Used
-- <a href=”https://github.com/Dennisogaka/Jumia_Data_Analysis/blob/main/Excel_jumia.xlsx”>Dataset</a>
+- <a href="https://github.com/Dennisogaka/Jumia_Data_Analysis/commit/e942da9519506523b682b21f8034a1184cdeb728”>Dataset</a>
 ## Cleaning and Enrichment
 -	I had blanks in the rating column, so I filled them with the column's average.
 -	The review column had negatives, so I used the Find & Replace function to change the negatives to positives.
